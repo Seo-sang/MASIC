@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Fragment33">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:background="@color/darkThema">
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="0">
+
+                <TextView
+                    android:id="@+id/play_title"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true"
+                    android:layout_gravity="center"
+                    android:background="@color/invisible"
+                    android:text="Title"
+                    android:textAlignment="center"
+                    android:textColor="@color/white"
+                    android:textSize="60dp"></TextView>
+            </RelativeLayout>
+
+            <TextView
+                android:id="@+id/producer"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_weight="0"
+                android:background="@color/invisible"
+                android:text="producer"
+                android:textAlignment="center"
+                android:textColor="@color/white"
+                android:textSize="26dp"></TextView>
+
+            <ImageView
+                android:id="@+id/play_image"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_weight="1"
+                android:src="@drawable/sample0"></ImageView>
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_weight="0"
+                android:layout_marginBottom="10dp">
+                <Button
+                    android:id="@+id/listButton"
+                    android:layout_width="60dp"
+                    android:layout_height="wrap_content"
+                    android:text="≡"
+                    android:textSize="45dp"
+                    android:textColor="@color/white"
+                    android:background="@color/invisible">
+                </Button>
+
+                <Button
+                    android:id="@+id/playBtn3"
+                    android:layout_width="60dp"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true"
+                    android:background="@color/invisible"
+                    android:text="▶"
+                    android:textColor="@color/white"
+                    android:textSize="45dp"></Button>
+            </RelativeLayout>
+        </LinearLayout>
+    </LinearLayout>
+</FrameLayout>

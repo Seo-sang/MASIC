@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#5D5D5D</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="darkThema">#5D5D5D</color>
+    <color name="white">#FFFFFF</color>
+    <color name="invisible">#005D5D5D</color>
+    <color name="black">#000000</color>
+    <color name="black_overlay">#66000000</color>
+    <color name="background">#5D5D5D</color>
+
+    <color name="_0">#FFDCB6</color>
+    <color name="_1">#C8A08C</color>
+    <color name="_2">#FFE72F</color>
+    <color name="_3">#FCCA29</color>
+    <color name="_4">#FFC32A</color>
+    <color name="_5">#FF6D1D</color>
+    <color name="_6">#EF3912</color>
+    <color name="_7">#DE2E16</color>
+    <color name="_8">#B5240F</color>
+    <color name="_9">#A64A09</color>
+    <color name="_10">#B6350B</color>
+    <color name="_11">#78120D</color>
+    <color name="_12">#5F3004</color>
+    <color name="_13">#7F4F11</color>
+    <color name="_14">#405618</color>
+    <color name="_15">#90B12F</color>
+    <color name="_16">#126D2A</color>
+    <color name="_17">#21853D</color>
+    <color name="_18">#143115</color>
+    <color name="_19">#20491F</color>
+    <color name="_20">#1578D6</color>
+    <color name="_21">#2941AD</color>
+    <color name="_22">#191C7D</color>
+    <color name="_23">#281839</color>
+    <color name="_24">#3F197C</color>
+    <color name="_25">#81156A</color>
+    <color name="_26">#B6231C</color>
+    <color name="_27">#CF3096</color>
+    <color name="_28">#C0C4C7</color>
+    <color name="_29">#E1A632</color>
+</resources>

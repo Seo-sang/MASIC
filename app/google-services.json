@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "864049301417",
+    "firebase_url": "https://masic-413b6.firebaseio.com",
+    "project_id": "masic-413b6",
+    "storage_bucket": "masic-413b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864049301417:android:17cb43a351fa7228dd66b8",
+        "android_client_info": {
+          "package_name": "com.example.masic_temp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "864049301417-f26ivd48gd8djc3jfq2vhhibb7bv3s34.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCM-WMqnETl4pCdfd-pxcNSBRsJWk9MA9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "864049301417-f26ivd48gd8djc3jfq2vhhibb7bv3s34.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
